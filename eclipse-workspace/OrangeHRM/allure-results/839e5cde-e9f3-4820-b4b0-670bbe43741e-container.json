@@ -1,0 +1,1 @@
+{"uuid":"839e5cde-e9f3-4820-b4b0-670bbe43741e","name":"Surefire test","children":["42bce165-32a3-42aa-b5fa-fc4379d0d2d9"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1707661661913,"stop":1707661675191}],"afters":[],"start":1707661661897,"stop":1707661685338}
