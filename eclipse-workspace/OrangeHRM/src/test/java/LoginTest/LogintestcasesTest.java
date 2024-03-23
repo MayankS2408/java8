@@ -11,7 +11,6 @@ import pom.Loginpage;
 public class LogintestcasesTest extends BaseTest {
 
 	Loginpage P;
-	BaseTest B;
 
 	@Test
 	public void loginit() throws InterruptedException, IOException {
